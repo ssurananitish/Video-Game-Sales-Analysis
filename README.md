@@ -35,10 +35,10 @@ The features considered were -
 - Rating
 
 
-The visualizations for this dataset were performed on the following data - [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales)
+The Seaborn visualization for this dataset were performed on the following data - [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales)
 
 
-The models were built using the enhanced dataset available at - [Video Game Sales with Ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
+The Plotly visulization and Machine Learning models were built using the enhanced dataset available at - [Video Game Sales with Ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
 
 
 
